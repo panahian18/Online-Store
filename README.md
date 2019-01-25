@@ -1,4 +1,4 @@
-This is my submission for the 2019 Shopify Developer intern challenge. It is written using Node.js and Express.js. There are 5 possible actions a user can execute. To test the various requests, I used the program postman and the port localhost:3000.
+This is a simple online store written in JavaScript using Node.js and Express.js. There are 5 possible actions a user can execute. To test the various requests, I used the program postman and the port localhost:3000.
 
 First, a user can add a product to the store. To add a product I used a POST request to the following:
 
